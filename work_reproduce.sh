@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python continual_train.py --logs-dir reproduce/setting1  --setting 1  -b 64 --num-instances 8
+CUDA_VISIBLE_DEVICES=0 python continual_train.py --logs-dir reproduce/setting2  --setting 2 -b 64 --num-instances 8
