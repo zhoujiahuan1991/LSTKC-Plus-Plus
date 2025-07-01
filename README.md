@@ -1,4 +1,4 @@
-# [IEEE TPAMI 2025] Long Short-Term Knowledge Decomposition and Consolidation for Lifelong Person Re-Identification
+# [TPAMI 2025] LSTKC++: Long Short-Term Knowledge Decomposition and Consolidation for Lifelong Person Re-Identification
 
 <div align="center">
 
